@@ -1,6 +1,6 @@
 # docker-awscli
 
-## Build
+## Run
 ```
-$ docker build iwatea/docker-awscli -t awscli
+$ docker run --rm iwatea/docker-awscli --help
 ```
