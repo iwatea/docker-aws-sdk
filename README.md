@@ -4,7 +4,7 @@
 
 Use official image
 
-https://aws.amazon.com/jp/blogs/developer/aws-cli-v2-docker-image/
+https://hub.docker.com/r/amazon/aws-cli
 
 
 ## Run
